@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# As histórias que nós ouviámos 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizar a IA de forma a fazer um resgate de memórias e transforma-las em podcast curtos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat-gpt e Eleven labs io
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descrevi o prompt com o comando para o Chat GPT criar o roteiro de um primeiro epsódio de um programa de mistérios semanais e transformei o texto em Pod cast com a utlização do Eleven Labs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida e surpreendente do assunto.
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Chegou a dar vontade de seguir com a ideia só pra ouvir os próximos epsódios.
 ```
 
 ### Exemplos e Insigths
